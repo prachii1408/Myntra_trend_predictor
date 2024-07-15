@@ -16,6 +16,22 @@ In the competitive landscape of fashion and entertainment, staying ahead of tren
 
 •	With our models ready, we fed the data into them to detect the outfit class and type. Once the labels were obtained, they were sent to the Myntra MUSE app via a Flask API, ensuring smooth data transfer. Myntra MUSE then matches these predicted tags with actual tags on clothing items in its catalog, providing accurate recommendations.
 
-#Results
+# Results
+
+![Result1](https://github.com/prachii1408/Myntra_trend_predictor/blob/main/results1.png)
+![Result2](https://github.com/prachii1408/Myntra_trend_predictor/blob/main/Results2.png)
+![Result3](https://github.com/prachii1408/Myntra_trend_predictor/blob/main/results3.png)
+
+# TECHNOLOGIES USED
+•	Python
+
+•	FastAI
+
+•	Jupyter
+
+•	Flask
+
+# REFERENCES
+https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 
 
